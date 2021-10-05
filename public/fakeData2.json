@@ -1,0 +1,93 @@
+[
+    {
+      "id": "#301",
+      "course": "Play",
+      "price": 10000,
+      "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+      "image": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.pittsburghparent.com/content/uploads/2021/07/b/s/adobestock-288108701-1024x682.jpeg"
+    },
+    {
+      "id": "#302",
+      "course": "Nursery",
+      "price": 12000,
+      "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+      "image": "https://ichef.bbci.co.uk/news/640/mcs/media/images/79278000/jpg/_79278102_school.jpg"
+    },
+    {
+      "id": "#303",
+      "course": "KG",
+      "price": 14000,
+      "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+      "image": "https://media.istockphoto.com/photos/cute-little-girl-go-to-daycare-back-to-school-picture-id1026545436?k=20&m=1026545436&s=612x612&w=0&h=43oWvCd-2mlpJCHShW0R0j5qZx0Z2rGSO0yPkaJ73FY="
+    },
+    {
+      "id": "#304",
+      "course": "KG-I",
+      "price": 16000,
+      "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+      "image": "https://im.indiatimes.in/media/content/2019/Sep/90s_memories_1567765641_725x725.jpg"
+    },
+    {
+      "id": "#305",
+      "course": "KG-II",
+      "price": 18000,
+      "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+      "image": "https://i.pinimg.com/736x/c7/25/98/c7259886783cf4566dc52cb8379e7af2.jpg"
+    },
+    {
+      "id": "#306",
+      "course": "KG-III",
+      "price": 20000,
+      "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+      "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/115F/production/_98974440_gettyimages-534037992.jpg"
+    },
+    {
+        "id": "#307",
+        "course": "KG-IV",
+        "price": 22000,
+        "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+        "image": "https://static3.bigstockphoto.com/2/7/3/large1500/372385975.jpg"
+      },
+      {
+        "id": "#308",
+        "course": "Class-V",
+        "price": 24000,
+        "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+        "image": "https://www.inquirer.com/resizer/RdpWTPf_HF6SfE3b3wcXGXFAF8M=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/W6FSVVPYBBC2BNLTBCJNEAFANY.jpg"
+      },
+      {
+        "id": "#309",
+        "course": "Class-VI",
+        "price": 28000,
+        "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+        "image": "https://4.bp.blogspot.com/-CKknVPMW2DI/WYGoat9pPpI/AAAAAAAM5wM/vDtYYNNWKSMbW8y-5q2w-tstxICPq8QpgCLcBGAs/s1600/xa.jpg"
+      },
+      {
+        "id": "#310",
+        "course": "Class-VII",
+        "price": 30000,
+        "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+        "image": "https://www.unicef.org/rosa/sites/unicef.org.rosa/files/styles/hero_mobile/public/0000423.JPG?itok=5ZyuX8Zg"
+      },
+      {
+        "id": "#311",
+        "course": "Class-VIII",
+        "price": 32000,
+        "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+        "image": "https://thumbs.dreamstime.com/b/going-to-school-water-color-sketch-paiting-children-india-31467359.jpg"
+      },
+      {
+        "id": "#312",
+        "course": "Class-IX",
+        "price": 34000,
+        "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+        "image": "https://www.sentinelassam.com/wp-content/uploads/2018/11/School-kids-with-heavy-bags.jpg"
+      },
+      {
+        "id": "#313",
+        "course": "Class-X",
+        "price": 36000,
+        "des": "Just getting a admit letter from your dream international university is not enough to set your career in motion. Even before the tedious application procedure of submitting documents, tests scores, and the anxious wait to get an acceptance, comes the real deal of arranging funds.",
+        "image": "https://delhispeaking.in/wp-content/uploads/2020/08/School-going-Children.jpg"
+      }
+  ]

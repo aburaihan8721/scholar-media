@@ -1,0 +1,28 @@
+
+    [
+        {
+          "id": "#201",
+          "course": "Play",
+          "price": 10000,
+          "image": "https://media.istockphoto.com/photos/cute-little-girl-go-to-daycare-back-to-school-picture-id1026545436?k=20&m=1026545436&s=612x612&w=0&h=43oWvCd-2mlpJCHShW0R0j5qZx0Z2rGSO0yPkaJ73FY="
+        },
+        {
+          "id": "#202",
+          "course": "Nursery",
+          "price": 12000,
+          "image": "https://ichef.bbci.co.uk/news/640/mcs/media/images/79278000/jpg/_79278102_school.jpg"
+        },
+        {
+          "id": "#203",
+          "course": "KG",
+          "price": 14000,         
+          "image": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.pittsburghparent.com/content/uploads/2021/07/b/s/adobestock-288108701-1024x682.jpeg"
+        },
+        {
+          "id": "#204",
+          "course": "High School",
+          "price": 20000,
+          "image": "https://im.indiatimes.in/media/content/2019/Sep/90s_memories_1567765641_725x725.jpg"
+        }
+        
+      ]
