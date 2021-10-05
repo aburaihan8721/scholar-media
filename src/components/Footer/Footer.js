@@ -33,6 +33,7 @@ function Footer() {
               </li>
             </ul>
           </Col>
+
           <Col className="border m-2 p-3">
             <h4>Get help</h4>
             <ul>
@@ -53,6 +54,7 @@ function Footer() {
               </li>
             </ul>
           </Col>
+
           <Col className="border m-2 p-3">
             <h4>Online Support</h4>
             <ul>
@@ -70,6 +72,7 @@ function Footer() {
               </li>
             </ul>
           </Col>
+          
           <Col className="border m-2 p-3">
             <h4>Follow Us</h4>
             <div className="">
@@ -94,3 +97,7 @@ function Footer() {
 }
 
 export default Footer;
+
+
+
+// =========end==================

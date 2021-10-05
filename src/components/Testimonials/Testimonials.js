@@ -27,8 +27,6 @@ function Testimonials() {
               <h3>Kobir Mahamud</h3>
             </div>
           </Col>
-          
-
 
           <Col className="border p-3" id="c-testimonials">
             <img
@@ -51,3 +49,6 @@ function Testimonials() {
 }
 
 export default Testimonials;
+
+
+// =====end=========

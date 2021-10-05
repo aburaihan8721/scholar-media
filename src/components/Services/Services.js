@@ -6,15 +6,17 @@ import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 
 function Services() {
+
+  // ======state for service data=====
   const [services, setServices] = useState([]);
 
+  // =========loading service data==========
   useEffect(() => {
     fetch(`./fakeData1.json`)
       .then((res) => res.json())
       .then((data) => setServices(data));
   }, []);
 
-  // console.log(services);
 
   return (
     <div className="mt-5 mb-5">
@@ -27,6 +29,7 @@ function Services() {
         </p>
 
         <Row xs={1} sm={2} md={2} className="g-4">
+          {/* ===========dynamic service data======== */}
           {services.map((service, idx) => (
             <Col key={idx}>
               <Card className="card-height">
@@ -48,3 +51,5 @@ function Services() {
 }
 
 export default Services;
+
+// =============end===============

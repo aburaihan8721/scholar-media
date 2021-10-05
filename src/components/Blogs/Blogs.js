@@ -3,9 +3,12 @@ import Card from "react-bootstrap/Card";
 import "./Blogs.css";
 import Button from "react-bootstrap/Button";
 import { Container } from "react-bootstrap";
+
 function Blogs() {
   return (
     <Container>
+
+      {/* ======static data======== */}
       <Card className="text-center mb-4">
         <Card.Header></Card.Header>
         <Card.Body>
@@ -38,6 +41,7 @@ function Blogs() {
         </Card.Body>
         <Card.Footer className="text-muted"></Card.Footer>
       </Card>
+
       <Card className="text-center mb-4">
         <Card.Header></Card.Header>
         <Card.Body>

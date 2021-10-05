@@ -1,19 +1,20 @@
+#c-style {
+  width: 60%;
+  margin: 0 auto;
+  color: white;
+  margin-bottom: 160px;
+}
 
-#c-style{
-    width: 60%;
-    margin: 0 auto;
-    color: white;
-    margin-bottom: 160px;
+#c-style img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+#c-testimonials {
+  position: relative;
+  top: 150px;
 }
 
 
-#c-style img{
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-}
-
-#c-testimonials{
-    position: relative;
-    top: 150px;
-}
+/* ======end====== */

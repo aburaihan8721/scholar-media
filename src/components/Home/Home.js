@@ -9,13 +9,14 @@ function Home() {
   return (
     <div>
       <Container>
-      <Banner></Banner>
-      <Services></Services>
-      <Testimonials></Testimonials>
+        <Banner></Banner>
+        <Services></Services>
+        <Testimonials></Testimonials>
       </Container>
-
     </div>
   );
 }
 
 export default Home;
+
+// =========end===============

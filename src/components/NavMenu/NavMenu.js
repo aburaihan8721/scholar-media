@@ -7,6 +7,7 @@ import "./NavMenu.css";
 function NavMenu() {
   return (
     <div>
+      {/* =======main nav========= */}
       <Navbar>
         <Container fluid id="c-padding">
           <Link to="/home" className="navbar-brand" id="c-brand">
@@ -19,6 +20,7 @@ function NavMenu() {
             />{" "}
             Scholar Media
           </Link>
+
           <Nav className="ms-auto">
             <ul className="navbar-nav">
               <li className="nav-item">
@@ -85,3 +87,5 @@ function NavMenu() {
 }
 
 export default NavMenu;
+
+// ==========end=============
