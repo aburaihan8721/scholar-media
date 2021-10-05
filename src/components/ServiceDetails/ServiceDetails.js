@@ -16,7 +16,7 @@ function ServiceDetails() {
 
   return (
     <div>
-      <Container>
+      <Container className="mb-3">
         <Row xs={1} sm={2} md={3} className="g-4">
           {serviceDetails.map((serviceDetail, idx) => (
             <Col key={idx}>

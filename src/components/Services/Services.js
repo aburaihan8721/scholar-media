@@ -17,8 +17,15 @@ function Services() {
   // console.log(services);
 
   return (
-    <div>
+    <div className="mt-5 mb-5">
       <Container>
+        <h1 className="text-center text-white mb-3">Our Services</h1>
+        <p className="text-center text-white w-50 mx-auto">
+          Getting education isn’t easy, and most students experience challenges
+          during their degrees. The important thing is to believe in yourself
+          and not give up.{" "}
+        </p>
+
         <Row xs={1} sm={2} md={2} className="g-4">
           {services.map((service, idx) => (
             <Col key={idx}>

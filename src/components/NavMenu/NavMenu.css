@@ -1,3 +1,21 @@
 .logo{
     border-radius: 50%;
 }
+
+#c-brand{
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+#c-padding{
+    padding: 20px 150px;
+}
+
+#c-color{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+
+}

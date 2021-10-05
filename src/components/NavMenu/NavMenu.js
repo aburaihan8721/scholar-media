@@ -7,9 +7,9 @@ import "./NavMenu.css";
 function NavMenu() {
   return (
     <div>
-      <Navbar bg="dark" variant="dark">
-        <Container fluid className="px-5">
-          <Link to="/home" className="navbar-brand">
+      <Navbar>
+        <Container fluid id="c-padding">
+          <Link to="/home" className="navbar-brand" id="c-brand">
             <img
               width="50px"
               height="50px"
@@ -24,6 +24,7 @@ function NavMenu() {
               <li className="nav-item">
                 <NavLink
                   className="nav-link"
+                  id="c-color"
                   to="/home"
                   activeStyle={{
                     fontWeight: "bold",
@@ -37,6 +38,7 @@ function NavMenu() {
               <li className="nav-item">
                 <NavLink
                   className="nav-link"
+                  id="c-color"
                   to="/services"
                   activeStyle={{
                     fontWeight: "bold",
@@ -50,6 +52,7 @@ function NavMenu() {
               <li className="nav-item">
                 <NavLink
                   className="nav-link"
+                  id="c-color"
                   to="/blogs"
                   activeStyle={{
                     fontWeight: "bold",
@@ -63,6 +66,7 @@ function NavMenu() {
               <li className="nav-item">
                 <NavLink
                   className="nav-link"
+                  id="c-color"
                   to="/about"
                   activeStyle={{
                     fontWeight: "bold",
