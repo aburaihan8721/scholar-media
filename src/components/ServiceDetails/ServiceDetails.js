@@ -2,6 +2,8 @@ import React, { useEffect, useState } from "react";
 import "./ServiceDetails.css";
 import Card from "react-bootstrap/Card";
 import { Col, Container, Row } from "react-bootstrap";
+import Button from 'react-bootstrap/Button'
+import { Link } from "react-router-dom";
 
 function ServiceDetails() {
   const [serviceDetails, setServiceDetails] = useState([]);
@@ -26,6 +28,9 @@ function ServiceDetails() {
                   <Card.Title>Service : {serviceDetail.course}</Card.Title>
                   <Card.Text>Price : ${serviceDetail.price}</Card.Text>
                   <Card.Text>{serviceDetail.des}</Card.Text>
+                  <Link to="/">
+                    <Button variant="primary">Enroll Now</Button>
+                  </Link>
                 </Card.Body>
               </Card>
             </Col>
